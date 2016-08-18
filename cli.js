@@ -10,7 +10,7 @@ console.log(`
   So I made this.
   It doesnt save or copy your password.
   Just makes it easier.
-  To figure out which charcter is the 5, 12
+  To figure out which character is the 5, 12
   etc in your password <3
  ---------------------------------------
   Charcter postion on the left.
