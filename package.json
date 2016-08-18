@@ -1,0 +1,33 @@
+{
+  "name": "verified-by-visa",
+  "version": "1.0.0",
+  "description": "Makes entering the verified by visa password less hellish.. Chrome extension coming soon.",
+  "bin": {
+    "verifiedbyvisa": "./cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertJGabriel/Verified-by-Visa.git"
+  },
+  "keywords": [
+    "cli-app",
+    "cli",
+    "verified",
+    "visa",
+    "node",
+    "safe"
+  ],
+  "author": "Robert James Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertJGabriel/Verified-by-Visa/issues"
+  },
+  "homepage": "https://github.com/RobertJGabriel/Verified-by-Visa#readme"
+}
