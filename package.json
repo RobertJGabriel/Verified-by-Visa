@@ -1,6 +1,6 @@
 {
   "name": "verified-by-visa",
-  "version": "1.2.3",
+  "version": "1.2.5",
   "description": "Makes entering the verified by visa password less hellish.. Chrome extension coming soon.",
   "bin": {
     "verifiedbyvisa": "./cli.js"

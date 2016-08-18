@@ -13,7 +13,7 @@ console.log(`
   To figure out which character is the 5, 12
   etc in your password <3
  ---------------------------------------
-  Charcter postion on the left.
+  character postion on the left.
  ---------------------------------------
         \\   ^__^
          \\  (oo)\\_______
