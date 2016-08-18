@@ -26,4 +26,4 @@ verifiedbyvisa -p batman
 ## Screenshot
 ![alt text](https://github.com/RobertJGabriel/Verified-by-Visa/blob/master/assets/img/help.png "help")
 
-![alt text]("https://github.com/RobertJGabriel/Verified-by-Visa/blob/master/assets/img/after.png" "it working")
+![alt text](https://github.com/RobertJGabriel/Verified-by-Visa/blob/master/assets/img/after.png "it working")
