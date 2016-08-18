@@ -3,10 +3,12 @@
 module.exports = {
 
     init: function(password) {
-        var passwordLength = password.length;
+        var passwordLength = password.length,
+            numbers = [];
         for (var i = 0; i < passwordLength; i++) {
-            console.log( (i + 1) + " : " +  password.charAt(i));
+            numbers.push((i + 1));
         }
+        return numbers.join(' ');
     }
 
 };
