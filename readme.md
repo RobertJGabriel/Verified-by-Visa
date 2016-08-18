@@ -1,6 +1,6 @@
-![alt text](/assets/img/github/banner.png "Fixing Verified by Visa")
+![alt text](https://github.com/RobertJGabriel/Verified-by-Visa/blob/master/assets/img/banner.png "Fixing Verified by Visa")
 
-#About
+# About
 Keeping it simple my password for verified by visa is long and takes way to long to figure out which is the 2,6,21 charcters. So this cli tools will help.... Chrome extenion coming soon (Help welcomed).
 Makes entering the verified by visa password less hellish.. Chrome extension coming soon.
 
@@ -24,6 +24,6 @@ verifiedbyvisa -p batman
 
 
 ## Screenshot
-![alt text](/assets/img/github/banner.png "Fixing Verified by Visa")
+![alt text](https://github.com/RobertJGabriel/Verified-by-Visa/blob/master/assets/img/help.png "help")
 
-![alt text](/assets/img/github/banner.png "Fixing Verified by Visa")
+![alt text]("https://github.com/RobertJGabriel/Verified-by-Visa/blob/master/assets/img/after.png" "it working")
