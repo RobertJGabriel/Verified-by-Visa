@@ -15,11 +15,11 @@ const password = program.password || "test";
 
 const leftPad = function (str, length, padChar) {
     padChar = padChar || ' ';
-    let out = str;
-    while(out.length < length) {
-        out = padChar + out;
+    if (length <= str.length) {
+        return str;
     }
-    return out;
+    let padding = (new Array(length - str.length)).fill(padChar);
+    return padding + str;
 }
 
 const password_string = password.split('').map(function (x, i) {
