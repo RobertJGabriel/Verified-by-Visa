@@ -1,8 +1,8 @@
 ![alt text](https://github.com/RobertJGabriel/Verified-by-Visa/blob/master/assets/img/banner.png "Fixing Verified by Visa")
 
 # About
-Makes entering the verified by visa password less hellish.. Chrome extension coming soon.
-Keeping it simple my password for verified by visa is long and takes way to long to figure out which is the 2,6,21 characters. So this cli tools will help.... Chrome extenion coming soon (Help welcomed).
+Keeping it simple my password for verified by visa is long and takes way to figure out which is the 2,6,21 character in your password. So this command line tool will help. Makes entering the verified by visa password less hellish.
+```Chrome extenion coming soon (Help welcomed).```
 
 # Install
 ```shell
